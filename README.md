@@ -18,21 +18,16 @@ You can click the Preview link to take a look at your changes.
 
 Hi, here you could find some information about me.
 
-### What I'm doing for a living. 
-I write a code for an iOS devices.
-I've done a lot of projects in domains such as health care, e-commerce...
-
-💻 What programming languages I know and use on daily basis? 
-- Swift 
-- Objcetive-C
+💻 What programming languages I know or use on daily basis? 
+- Swift (Every day language, pick #1)
+- Objcetive-C :zombie:
 - Ruby (Usually for fastlane scripts and CocoaPods)
 
----
-- 🌱 I’m currently learning Test Driven Development
+🌱 I’m currently learning Test Driven Development
 
-### 📍Where I am ?
+### 📍 Where I am ?
 
-I'm living in beautiful Kraków.
+ I'm living in beautiful Kraków.
 
 ### ⌚️ Work time: 
 I preffer to work in range 09:30 - 18:00 CET
@@ -66,4 +61,4 @@ I still mastering my speaking/writing skills.
 
 ###  📫 How to reach me:
 
-Email: shushka.ivan@gmail.com
+Email: ivan@aleck.io
